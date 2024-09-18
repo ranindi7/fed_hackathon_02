@@ -8,7 +8,7 @@ Objective - creating the home page for the brand.
 ## Team Members:
 
 -   Name 1
--   Name 2
+-   Akashdeep Singh
 -   Name 3
 
 ## Member Contributions:
@@ -17,7 +17,7 @@ Objective - creating the home page for the brand.
 
 -   Worked on [specific elements] of the webpage.
 
-### Name 2:
+### Akashdeep Singh:
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
