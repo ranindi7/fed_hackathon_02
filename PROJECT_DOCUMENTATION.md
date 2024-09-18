@@ -6,11 +6,9 @@ Creating a landing page for a fictional online clothing store.
 Objective - creating the home page for the brand.
 
 ## Team Members:
-
-
--   Name 1
+-   Ranindi Gunasekera
 -   Akashdeep Singh
--   Name 3
+-   Odudu-Abasi Jackson
 
 
 ## Member Contributions:
@@ -23,6 +21,6 @@ Objective - creating the home page for the brand.
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
-### Name 3:
+### Odudu-Abasi Jackson:
 
 -   Handled [specific sections], covering [specific topics or features].
