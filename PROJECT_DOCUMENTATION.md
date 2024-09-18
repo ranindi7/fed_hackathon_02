@@ -9,7 +9,7 @@ Objective - creating the home page for the brand.
 
 -   Ranindi Gunasekera
 -   Name 2
--   Name 3
+-   Jackson Odudu-Abasi 
 
 ## Member Contributions:
 
