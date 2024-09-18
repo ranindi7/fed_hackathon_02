@@ -7,13 +7,15 @@ Objective - creating the home page for the brand.
 
 ## Team Members:
 
+
 -   Name 1
 -   Akashdeep Singh
 -   Name 3
 
+
 ## Member Contributions:
 
-### Name 1:
+### Ranindi Gunasekera:
 
 -   Worked on [specific elements] of the webpage.
 
