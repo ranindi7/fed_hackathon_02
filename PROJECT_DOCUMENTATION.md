@@ -15,12 +15,12 @@ Objective - creating the home page for the brand.
 
 ### Ranindi Gunasekera:
 
--   Worked on [specific elements] of the webpage.
+-   Worked on creating the index and styles file and the women's section of the page.
 
 ### Akashdeep Singh:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Worked on creating and designing the men's section of the page.
 
 ### Odudu-Abasi Jackson:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Worked on creating and designing the kid's section of the page.
