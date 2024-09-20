@@ -15,12 +15,15 @@ Objective - creating the home page for the brand.
 
 ### Ranindi Gunasekera:
 
--   Worked on creating the index and styles file and the women's section of the page.
+- Worked on creating the index and styles file and the women's section of the page. 
+- Collectively worked on styles.css sheet.
 
 ### Akashdeep Singh:
 
--   Worked on creating and designing the men's section of the page.
+- Worked on creating and designing the men's section of the page.
+- Collectively worked on styles.css sheet.
 
 ### Odudu-Abasi Jackson:
 
--   Worked on creating and designing the kid's section of the page.
+- Worked on creating and designing the kid's section of the page.
+- Collectively worked on styles.css sheet.
